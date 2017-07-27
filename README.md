@@ -1,4 +1,4 @@
-# income_predict
+# Income predict
 
 Analysis using R on the [Adult Dataset](http://archive.ics.uci.edu/ml/datasets/Adult) in UCI machine learning repository, extracted from the census bureau database of the US GOV. The dataset deals with a binary classification problem, that is to determine whether a person makes over 50K a year.
 
